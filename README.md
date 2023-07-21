@@ -7,7 +7,7 @@ pyproject.toml info,
 "icons" folder
 
 RUN COMMAND:
-python -m venv venv
-venv/Scripts/activate...
-python -m pip install .
-python -m flask --app projectname --debug run
+python -m venv venv  
+venv/Scripts/activate...  
+python -m pip install .  
+python -m flask --app projectname --debug run  
